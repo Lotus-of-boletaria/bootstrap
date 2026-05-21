@@ -1,1 +1,1 @@
-
+Static html page 
